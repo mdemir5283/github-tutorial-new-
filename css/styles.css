@@ -48,7 +48,7 @@ body {
     margin-left: auto;
     margin-right: auto;
     text-align: center;
-    background-image: url(../images/man-walking-dog.jpg);
+    background-image: url(../images/download.jpg);
     background-repeat: no-repeat;
     background-position: center;
     background-size: cover;
@@ -56,7 +56,7 @@ body {
   
   .hero__title,
   .hero__text{
-    color: seagreen;
+    color:black;
   }
   
   .hero__title {
